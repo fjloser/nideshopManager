@@ -1,0 +1,12 @@
+.custom-container{
+    position: relative;
+    margin: 20px;
+    padding: 10px;
+    background: white;
+}
+.operation-top{
+    margin-bottom: 10px;
+}
+.right-operation > span{
+    cursor: pointer;
+}
