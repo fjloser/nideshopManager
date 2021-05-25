@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # jingdong
 
 > A Vue.js project
@@ -28,3 +29,7 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# nideshopManager
+nideshop manager
+>>>>>>> ab1ee84f4980845afbd4cffadf8e1ecd07ecff37
